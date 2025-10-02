@@ -16,6 +16,9 @@
     "test:coverage": "jest --coverage"
   },
   "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
+  "contributors": [
+    "Hrishikesh Dalal <your-email@example.com> (https://github.com/Hrishikesh-Dalal)"
+  ],
   "files": [
     "bin/",
     "app/",
