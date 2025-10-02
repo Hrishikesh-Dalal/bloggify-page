@@ -1,9 +1,48 @@
+# Dependencies
+node_modules/
+
+# Test coverage
+coverage/
+
+# Jest cache
+.jest/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
 *.swp
 *.swo
 *~
+
+# Logs
 *.log
-node_modules
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Environment files
 *.env
-.DS_Store
-package-lock.json
+
+# Bloggify specific
 .bloggify/*
+
+# Package lock (if needed, remove this line)
+# package-lock.json
